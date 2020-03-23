@@ -4,10 +4,10 @@
 [](images/scissors.png)
 ## Description
 1054-01-2 Week 10
-I designed this rock-paper-scissors game with lots of visual effects and fun. Players choose weapons and the computer Choose weapons randomly,we can see who win or lose. Follow the instructions above the button to play the game. The score will change depending on the actual situation.[](js/app.js)is my JavaScript link.
+I designed this rock-paper-scissors game with lots of visual effects and fun. Players choose weapons and the computer Choose weapons randomly,we can see who win or lose. Follow the instructions above the button to play the game. The score will change depending on the actual situation. See my [JavaScript ](/js/app.js/) page for details.
 
 ## Installation
-https://github.com/Rachel0509/rock_paper_scissor.git
+[This link](https://github.com/Rachel0509/rock_paper_scissor.git)
 This is repo link. Simply pulldown and start working!
 
 ## MIT License
