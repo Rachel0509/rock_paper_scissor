@@ -1,0 +1,97 @@
+body {
+    text-align:center;
+    padding:100px 50px;
+    background-color: #2F4056;
+}
+
+#game_area{
+    font-size: 40px;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.game_area{
+    margin:0 auto;
+    width: 700px;
+    border: darkgray 1px solid;
+    height: 700px;
+}
+
+.game_area h1{
+    background-color: #f25657;
+    line-height: 60px;
+    margin-top: 0px;
+    color: white;
+}
+
+#gameOption{
+    width: 150px;
+    height: 28px;
+}
+
+#playGame{
+    background-color: #fab600;
+    width: 90px;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    border: 1px solid #fab600;
+    margin-top: 20px;
+}
+
+.c-red{
+    color: #f25657
+}
+
+.c-green{
+    color: #00d57b
+}
+
+.clear-fl{
+    clear: left;
+}
+
+.score{
+    float: left;
+    width: 150px;
+    height: 53px;
+    background-color: #2F4056;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.margin-l50{
+    margin-left: 50px;
+}
+.margin-l230{
+    margin-left: 230px;
+}
+
+.option{
+    float: left;
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #00d57b;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+    border: 2px solid #2F4056;
+}
+
+.selected{
+    border: 1px solid #407aff;
+}
+
+.br-lb{
+    border-radius: 5px 0 0 5px;
+}
+
+.br-rb{
+    border-radius: 0 5px 5px 0;
+}
+
